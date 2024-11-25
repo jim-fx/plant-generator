@@ -22,7 +22,7 @@
 		"@codemirror/view": "6.22.1",
 		"@plantarium/types": "link:../types",
 		"@sveltejs/adapter-static": "2.0.3",
-		"@sveltejs/kit": "1.27.6",
+		"@sveltejs/kit": "2.8.3",
 		"@typescript-eslint/eslint-plugin": "6.13.2",
 		"@typescript-eslint/parser": "^6.13.2",
 		"ajv": "^8.12.0",

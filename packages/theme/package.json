@@ -31,7 +31,7 @@
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "^2.1.1",
-		"@sveltejs/kit": "^1.27.6",
+		"@sveltejs/kit": "^2.0.0",
 		"@sveltejs/package": "^2.2.3",
 		"@typescript-eslint/eslint-plugin": "^6.13.2",
 		"@typescript-eslint/parser": "^6.13.2",

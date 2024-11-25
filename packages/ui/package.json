@@ -30,7 +30,7 @@
     "@plantarium/theme": "workspace:*",
     "@plantarium/types": "workspace:*",
     "@sveltejs/adapter-static": "2.0.3",
-    "@sveltejs/kit": "1.27.6",
+    "@sveltejs/kit": "2.8.3",
     "@sveltejs/vite-plugin-svelte": "^3.0.1",
     "@testing-library/svelte": "^4.0.5",
     "@typescript-eslint/eslint-plugin": "6.13.2",
