@@ -25,7 +25,7 @@
     "svelte-check": "3.6.2",
     "svelte-preprocess": "5.1.1",
     "tslib": "2.6.2",
-    "typescript": "5.3.2",
+    "typescript": "5.7.3",
     "vite": "5.0.5",
     "vite-plugin-windicss": "1.9.2",
     "windicss": "3.5.6"
