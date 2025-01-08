@@ -65,7 +65,7 @@
     "stacktrace-parser": "0.1.10",
     "svelte": "4.2.8",
     "ts-node": "10.9.1",
-    "typescript": "5.3.2",
+    "typescript": "5.7.3",
     "uuid": "9.0.1"
   },
   "devDependencies": {
