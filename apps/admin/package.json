@@ -45,7 +45,7 @@
     "devalue": "^4.3.2",
     "dotenv": "16.3.1",
     "file-saver": "2.0.5",
-    "nanoid": "5.0.4",
+    "nanoid": "5.0.9",
     "set-cookie-parser": "2.6.0",
     "stacktrace-parser": "0.1.10",
     "svelte-forms-lib": "2.0.1",

@@ -64,7 +64,7 @@
     "ajv": "8.12.0",
     "ajv-formats": "2.1.1",
     "css-vars-from-json": "1.1.0",
-    "nanoid": "5.0.4",
+    "nanoid": "5.0.9",
     "ogl": "^1.0.3",
     "stacktrace-parser": "0.1.10",
     "svelte-json-tree": "2.2.0"
