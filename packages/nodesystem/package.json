@@ -33,7 +33,7 @@
     "svelte2tsx": "^0.6.27",
     "tslib": "^2.6.2",
     "typescript": "~5.3.2",
-    "vite": "5.0.5"
+    "vite": "5.4.12"
   },
   "type": "module",
   "dependencies": {
